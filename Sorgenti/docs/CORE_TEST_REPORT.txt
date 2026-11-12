@@ -1,0 +1,133 @@
+PASS 12 categories
+PASS 120 bilingual questions
+PASS arm content corrected
+PASS reject invalid correct answer count
+PASS accept answer 0
+PASS ignore double answer 0
+PASS continue 0
+PASS accept answer 1
+PASS ignore double answer 1
+PASS continue 1
+PASS accept answer 2
+PASS ignore double answer 2
+PASS continue 2
+PASS accept answer 3
+PASS ignore double answer 3
+PASS continue 3
+PASS accept answer 4
+PASS ignore double answer 4
+PASS continue 4
+PASS perfect score
+PASS ignore answer after completion
+PASS ignore repeated continue
+PASS monotonic duration
+PASS accept answer 0
+PASS ignore double answer 0
+PASS continue 0
+PASS accept answer 1
+PASS ignore double answer 1
+PASS continue 1
+PASS accept answer 2
+PASS ignore double answer 2
+PASS continue 2
+PASS accept answer 3
+PASS ignore double answer 3
+PASS continue 3
+PASS accept answer 4
+PASS ignore double answer 4
+PASS continue 4
+PASS zero score
+PASS accept answer 0
+PASS ignore double answer 0
+PASS continue 0
+PASS accept answer 1
+PASS ignore double answer 1
+PASS continue 1
+PASS accept answer 2
+PASS ignore double answer 2
+PASS continue 2
+PASS accept answer 3
+PASS ignore double answer 3
+PASS continue 3
+PASS accept answer 4
+PASS ignore double answer 4
+PASS continue 4
+PASS mixed score
+PASS abandon has no result
+PASS shuffle keeps option IDs
+PASS option order stable while rendering
+PASS reject unknown option
+PASS idempotent save
+PASS settings persist
+PASS answer snapshots persist
+PASS atomic save creates backup
+PASS reset persists
+PASS reset keeps language
+PASS corrupt data preserved
+PASS failed write rolls back attempt
+PASS failed settings roll back
+PASS torque 1kg 30cm = 2.943Nm
+PASS halving distance halves torque
+PASS doubling mass doubles torque
+PASS zero lever arm gives zero torque
+PASS reject nonfinite mechanics input
+PASS hinge reference geometry
+PASS hinge right-angle geometry
+PASS negative ankle angle raises toes
+PASS initial model does not satisfy elbow
+PASS mission success elbow
+PASS repeated evaluation idempotent elbow
+PASS concept error blocks success elbow
+PASS inclusive angle tolerance elbow
+PASS outside angle tolerance elbow
+PASS initial model does not satisfy knee
+PASS mission success knee
+PASS repeated evaluation idempotent knee
+PASS concept error blocks success knee
+PASS inclusive angle tolerance knee
+PASS outside angle tolerance knee
+PASS initial model does not satisfy ankle
+PASS mission success ankle
+PASS repeated evaluation idempotent ankle
+PASS concept error blocks success ankle
+PASS inclusive angle tolerance ankle
+PASS outside angle tolerance ankle
+PASS initial model does not satisfy lever
+PASS mission success lever
+PASS repeated evaluation idempotent lever
+PASS concept error blocks success lever
+PASS changing mass cannot bypass lever mission
+PASS lab saves once
+PASS lab reopens with correct result
+PASS accept answer 0
+PASS ignore double answer 0
+PASS continue 0
+PASS accept answer 1
+PASS ignore double answer 1
+PASS continue 1
+PASS accept answer 2
+PASS ignore double answer 2
+PASS continue 2
+PASS accept answer 3
+PASS ignore double answer 3
+PASS continue 3
+PASS accept answer 4
+PASS ignore double answer 4
+PASS continue 4
+PASS two missed questions enter review
+PASS short targeted review has its own denominator
+PASS correct review clears pending errors
+PASS review does not change historical quiz score
+PASS review persists with variable length
+PASS later mistake re-enters review
+PASS review sessions capped at five
+PASS CSV includes quizzes reviews and labs with consistent columns
+PASS legacy progress import runs on first launch
+PASS legacy file is preserved byte-for-byte
+PASS legacy score preserved
+PASS migration writes schema 2
+PASS existing new profile is never overwritten
+PASS reset clears labs and reviews together
+PASS lab write failure rolls back
+PASS unknown schema rejected without overwriting
+ALL 132 CHECKS PASSED

@@ -1,0 +1,22 @@
+MakeNSIS v3.09-4 - Copyright 1999-2023 Contributors
+See the file COPYING for license details.
+Credits can be found in the Users Manual.
+
+Processing script file: "Anatomiva/packaging/installer.nsi" (UTF8)
+
+Processed 1 file, writing output (x86-unicode):
+
+Output: "/workspace/scratch/9feb5275b325/Anatomiva/build/Installa_Anatomiva.exe"
+Install: 4 pages (256 bytes), 1 section (4120 bytes), 457 instructions (12796 bytes), 275 strings (11466 bytes), 2 language tables (588 bytes).
+Uninstall: 2 pages (192 bytes), 1 section (4120 bytes), 61 instructions (1708 bytes), 147 strings (5302 bytes), 2 language tables (500 bytes).
+Datablock optimizer saved 1888 bytes (~0.8%).
+
+Using zlib compression.
+
+EXE header size:              131072 / 100352 bytes
+Install code:                   5450 / 27642 bytes
+Install data:                  91518 / 349574 bytes
+Uninstall code+data:            6337 / 34386 bytes
+CRC (0x535DD4ED):                  4 / 4 bytes
+
+Total size:                   234381 / 511958 bytes (45.7%)

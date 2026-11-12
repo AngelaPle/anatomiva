@@ -1,0 +1,987 @@
+<?xml version='1.0' encoding='utf-8'?>
+<catalog version="1">
+  <category id="head" it="Testa" en="Head" descriptionIt="La testa ospita il cervello e diversi organi di senso. Il cranio protegge il cervello." descriptionEn="The head contains the brain and several sense organs. The skull protects the brain.">
+    <question id="head-01" level="1" source="anatomy">
+      <prompt it="Quale struttura protegge il cervello?" en="Which structure protects the brain?" />
+      <explanation it="Il cranio forma una protezione ossea attorno al cervello." en="The skull forms a bony protection around the brain." />
+      <option id="0" correct="true" it="Cranio" en="Skull" />
+      <option id="1" correct="false" it="Rotula" en="Kneecap" />
+      <option id="2" correct="false" it="Femore" en="Femur" />
+      <option id="3" correct="false" it="Bacino" en="Pelvis" />
+    </question>
+    <question id="head-02" level="1" source="anatomy">
+      <prompt it="Quale organo coordina molte attività del corpo?" en="Which organ coordinates many body activities?" />
+      <explanation it="Il cervello elabora informazioni e coordina molte attività." en="The brain processes information and coordinates many activities." />
+      <option id="0" correct="true" it="Cervello" en="Brain" />
+      <option id="1" correct="false" it="Capello" en="Hair" />
+      <option id="2" correct="false" it="Unghia" en="Nail" />
+      <option id="3" correct="false" it="Dente" en="Tooth" />
+    </question>
+    <question id="head-03" level="1" source="anatomy">
+      <prompt it="Quale parte della testa contiene i denti?" en="Which part of the head contains the teeth?" />
+      <explanation it="I denti si trovano nella bocca e aiutano a masticare." en="Teeth are in the mouth and help with chewing." />
+      <option id="0" correct="true" it="Bocca" en="Mouth" />
+      <option id="1" correct="false" it="Orecchio" en="Ear" />
+      <option id="2" correct="false" it="Palpebra" en="Eyelid" />
+      <option id="3" correct="false" it="Capelli" en="Hair" />
+    </question>
+    <question id="head-04" level="1" source="anatomy">
+      <prompt it="Con quale organo percepiamo gli odori?" en="Which organ helps us detect smells?" />
+      <explanation it="Nel naso sono presenti recettori sensibili agli odori." en="The nose contains receptors that detect smells." />
+      <option id="0" correct="true" it="Naso" en="Nose" />
+      <option id="1" correct="false" it="Occhio" en="Eye" />
+      <option id="2" correct="false" it="Ginocchio" en="Knee" />
+      <option id="3" correct="false" it="Mano" en="Hand" />
+    </question>
+    <question id="head-05" level="1" source="anatomy">
+      <prompt it="Quale parte usiamo soprattutto per assaggiare?" en="Which part do we mainly use to taste?" />
+      <explanation it="Sulla lingua si trovano molte papille con gemme gustative." en="The tongue has many papillae containing taste buds." />
+      <option id="0" correct="true" it="Lingua" en="Tongue" />
+      <option id="1" correct="false" it="Orecchio" en="Ear" />
+      <option id="2" correct="false" it="Fronte" en="Forehead" />
+      <option id="3" correct="false" it="Mento" en="Chin" />
+    </question>
+    <question id="head-06" level="2" source="anatomy">
+      <prompt it="Come si chiama l'osso mobile della mascella inferiore?" en="What is the movable lower jaw bone called?" />
+      <explanation it="La mandibola si muove quando apriamo la bocca e mastichiamo." en="The mandible moves when we open our mouth and chew." />
+      <option id="0" correct="true" it="Mandibola" en="Mandible" />
+      <option id="1" correct="false" it="Scapola" en="Scapula" />
+      <option id="2" correct="false" it="Tibia" en="Tibia" />
+      <option id="3" correct="false" it="Sterno" en="Sternum" />
+    </question>
+    <question id="head-07" level="2" source="anatomy">
+      <prompt it="Quale struttura collega il cervello a molti nervi del corpo?" en="Which structure connects the brain to many nerves in the body?" />
+      <explanation it="Il midollo spinale trasporta segnali tra cervello e corpo." en="The spinal cord carries signals between the brain and body." />
+      <option id="0" correct="true" it="Midollo spinale" en="Spinal cord" />
+      <option id="1" correct="false" it="Tendine di Achille" en="Achilles tendon" />
+      <option id="2" correct="false" it="Unghia" en="Nail" />
+      <option id="3" correct="false" it="Iride" en="Iris" />
+    </question>
+    <question id="head-08" level="2" source="anatomy">
+      <prompt it="Quale struttura contiene le corde vocali?" en="Which structure contains the vocal cords?" />
+      <explanation it="Le corde vocali si trovano nella laringe, nel collo." en="The vocal cords are in the larynx, in the neck." />
+      <option id="0" correct="true" it="Laringe" en="Larynx" />
+      <option id="1" correct="false" it="Retina" en="Retina" />
+      <option id="2" correct="false" it="Coclea" en="Cochlea" />
+      <option id="3" correct="false" it="Rotula" en="Patella" />
+    </question>
+    <question id="head-09" level="2" source="anatomy">
+      <prompt it="Quale parte del dente riveste la corona?" en="Which part of a tooth covers its crown?" />
+      <explanation it="Lo smalto è il rivestimento duro della corona del dente." en="Enamel is the hard covering of the tooth crown." />
+      <option id="0" correct="true" it="Smalto" en="Enamel" />
+      <option id="1" correct="false" it="Cartilagine" en="Cartilage" />
+      <option id="2" correct="false" it="Capello" en="Hair" />
+      <option id="3" correct="false" it="Pupilla" en="Pupil" />
+    </question>
+    <question id="head-10" level="2" source="anatomy">
+      <prompt it="Dove si trova il cervello rispetto al cranio?" en="Where is the brain in relation to the skull?" />
+      <explanation it="Il cervello si trova all'interno del cranio, protetto anche da membrane e liquido." en="The brain is inside the skull, also protected by membranes and fluid." />
+      <option id="0" correct="true" it="All'interno" en="Inside it" />
+      <option id="1" correct="false" it="Sul gomito" en="On the elbow" />
+      <option id="2" correct="false" it="Nel piede" en="In the foot" />
+      <option id="3" correct="false" it="Sulla pelle" en="On the skin" />
+    </question>
+  </category>
+  <category id="hair" it="Capelli" en="Hair" descriptionIt="I capelli crescono da follicoli nella pelle. La parte visibile è composta soprattutto da cheratina." descriptionEn="Hair grows from follicles in the skin. The visible part consists mainly of keratin.">
+    <question id="hair-01" level="1" source="anatomy">
+      <prompt it="Da dove crescono i capelli?" en="Where does hair grow from?" />
+      <explanation it="I follicoli sono piccole strutture presenti nella pelle." en="Follicles are small structures in the skin." />
+      <option id="0" correct="true" it="Follicoli" en="Follicles" />
+      <option id="1" correct="false" it="Denti" en="Teeth" />
+      <option id="2" correct="false" it="Unghie" en="Nails" />
+      <option id="3" correct="false" it="Ossa" en="Bones" />
+    </question>
+    <question id="hair-02" level="1" source="anatomy">
+      <prompt it="Qual è la principale proteina del capello?" en="What is the main protein in hair?" />
+      <explanation it="La cheratina è una proteina presente anche nelle unghie." en="Keratin is a protein also found in nails." />
+      <option id="0" correct="true" it="Cheratina" en="Keratin" />
+      <option id="1" correct="false" it="Emoglobina" en="Hemoglobin" />
+      <option id="2" correct="false" it="Insulina" en="Insulin" />
+      <option id="3" correct="false" it="Amilasi" en="Amylase" />
+    </question>
+    <question id="hair-03" level="1" source="anatomy">
+      <prompt it="Dove si trova il cuoio capelluto?" en="Where is the scalp?" />
+      <explanation it="Il cuoio capelluto è la pelle che ricopre la parte superiore della testa." en="The scalp is the skin covering the top of the head." />
+      <option id="0" correct="true" it="Sulla testa" en="On the head" />
+      <option id="1" correct="false" it="Sotto il piede" en="Under the foot" />
+      <option id="2" correct="false" it="Nel ginocchio" en="Inside the knee" />
+      <option id="3" correct="false" it="Sulla lingua" en="On the tongue" />
+    </question>
+    <question id="hair-04" level="1" source="anatomy">
+      <prompt it="Quali peli aiutano a tenere lontane particelle dagli occhi?" en="Which hairs help keep particles away from the eyes?" />
+      <explanation it="Le ciglia aiutano a proteggere gli occhi da piccole particelle." en="Eyelashes help protect the eyes from small particles." />
+      <option id="0" correct="true" it="Ciglia" en="Eyelashes" />
+      <option id="1" correct="false" it="Capelli della nuca" en="Hair on the neck" />
+      <option id="2" correct="false" it="Barba" en="Beard" />
+      <option id="3" correct="false" it="Peli delle gambe" en="Leg hair" />
+    </question>
+    <question id="hair-05" level="1" source="anatomy">
+      <prompt it="Quale gesto aiuta a pulire i capelli?" en="Which action helps clean hair?" />
+      <explanation it="Un lavaggio delicato rimuove sporco e sebo in eccesso." en="Gentle washing removes dirt and excess oil." />
+      <option id="0" correct="true" it="Lavarli con delicatezza" en="Washing gently" />
+      <option id="1" correct="false" it="Coprirli di colla" en="Covering with glue" />
+      <option id="2" correct="false" it="Tirarli con forza" en="Pulling hard" />
+      <option id="3" correct="false" it="Usare sabbia" en="Using sand" />
+    </question>
+    <question id="hair-06" level="2" source="anatomy">
+      <prompt it="Quale pigmento contribuisce al colore dei capelli?" en="Which pigment contributes to hair color?" />
+      <explanation it="La melanina contribuisce al colore di capelli, pelle e occhi." en="Melanin contributes to the color of hair, skin and eyes." />
+      <option id="0" correct="true" it="Melanina" en="Melanin" />
+      <option id="1" correct="false" it="Clorofilla" en="Chlorophyll" />
+      <option id="2" correct="false" it="Collagene" en="Collagen" />
+      <option id="3" correct="false" it="Saliva" en="Saliva" />
+    </question>
+    <question id="hair-07" level="2" source="anatomy">
+      <prompt it="Come si chiama la parte visibile del capello?" en="What is the visible part of hair called?" />
+      <explanation it="Il fusto è la porzione del capello che emerge dalla pelle." en="The shaft is the part of the hair that emerges from the skin." />
+      <option id="0" correct="true" it="Fusto" en="Shaft" />
+      <option id="1" correct="false" it="Retina" en="Retina" />
+      <option id="2" correct="false" it="Timpano" en="Eardrum" />
+      <option id="3" correct="false" it="Rotula" en="Patella" />
+    </question>
+    <question id="hair-08" level="2" source="anatomy">
+      <prompt it="Dove si trova la radice del capello?" en="Where is the hair root?" />
+      <explanation it="La radice si trova nel follicolo, sotto la superficie cutanea." en="The root is in the follicle, below the skin surface." />
+      <option id="0" correct="true" it="Nella pelle" en="In the skin" />
+      <option id="1" correct="false" it="Nel dente" en="In the tooth" />
+      <option id="2" correct="false" it="Sulla scarpa" en="On the shoe" />
+      <option id="3" correct="false" it="Nel muscolo del braccio" en="In the arm muscle" />
+    </question>
+    <question id="hair-09" level="2" source="anatomy">
+      <prompt it="Quali ghiandole producono il sebo vicino ai follicoli?" en="Which glands produce oil near hair follicles?" />
+      <explanation it="Le ghiandole sebacee producono sebo che lubrifica pelle e capelli." en="Sebaceous glands produce oil that lubricates skin and hair." />
+      <option id="0" correct="true" it="Ghiandole sebacee" en="Sebaceous glands" />
+      <option id="1" correct="false" it="Ghiandole salivari" en="Salivary glands" />
+      <option id="2" correct="false" it="Ghiandole lacrimali" en="Tear glands" />
+      <option id="3" correct="false" it="Tiroide" en="Thyroid" />
+    </question>
+    <question id="hair-10" level="2" source="anatomy">
+      <prompt it="Quali peli aiutano a deviare il sudore dagli occhi?" en="Which hairs help divert sweat away from the eyes?" />
+      <explanation it="Le sopracciglia contribuiscono a deviare sudore e acqua dagli occhi." en="Eyebrows help divert sweat and water away from the eyes." />
+      <option id="0" correct="true" it="Sopracciglia" en="Eyebrows" />
+      <option id="1" correct="false" it="Barba" en="Beard" />
+      <option id="2" correct="false" it="Capelli della nuca" en="Hair on the neck" />
+      <option id="3" correct="false" it="Peli delle braccia" en="Arm hair" />
+    </question>
+  </category>
+  <category id="eye" it="Occhi" en="Eyes" descriptionIt="Gli occhi rilevano la luce. Retina e nervo ottico aiutano il cervello a costruire ciò che vediamo." descriptionEn="Eyes detect light. The retina and optic nerve help the brain build what we see.">
+    <question id="eye-01" level="1" source="anatomy">
+      <prompt it="Quale senso usiamo con gli occhi?" en="Which sense do we use with our eyes?" />
+      <explanation it="Gli occhi sono gli organi della vista." en="Eyes are the organs of sight." />
+      <option id="0" correct="true" it="Vista" en="Sight" />
+      <option id="1" correct="false" it="Udito" en="Hearing" />
+      <option id="2" correct="false" it="Gusto" en="Taste" />
+      <option id="3" correct="false" it="Olfatto" en="Smell" />
+    </question>
+    <question id="eye-02" level="1" source="anatomy">
+      <prompt it="Qual è la parte colorata dell'occhio?" en="What is the colored part of the eye?" />
+      <explanation it="L'iride è la parte colorata attorno alla pupilla." en="The iris is the colored part around the pupil." />
+      <option id="0" correct="true" it="Iride" en="Iris" />
+      <option id="1" correct="false" it="Rotula" en="Patella" />
+      <option id="2" correct="false" it="Timpano" en="Eardrum" />
+      <option id="3" correct="false" it="Unghia" en="Nail" />
+    </question>
+    <question id="eye-03" level="1" source="anatomy">
+      <prompt it="Come si chiama l'apertura scura al centro dell'occhio?" en="What is the dark opening at the center of the eye called?" />
+      <explanation it="La luce entra nell'occhio attraverso la pupilla." en="Light enters the eye through the pupil." />
+      <option id="0" correct="true" it="Pupilla" en="Pupil" />
+      <option id="1" correct="false" it="Scapola" en="Scapula" />
+      <option id="2" correct="false" it="Ciglia" en="Eyelashes" />
+      <option id="3" correct="false" it="Coclea" en="Cochlea" />
+    </question>
+    <question id="eye-04" level="1" source="anatomy">
+      <prompt it="Quale struttura può chiudersi davanti all'occhio?" en="Which structure can close in front of the eye?" />
+      <explanation it="Le palpebre proteggono gli occhi e distribuiscono le lacrime." en="Eyelids protect the eyes and spread tears." />
+      <option id="0" correct="true" it="Palpebra" en="Eyelid" />
+      <option id="1" correct="false" it="Gomito" en="Elbow" />
+      <option id="2" correct="false" it="Lobo" en="Earlobe" />
+      <option id="3" correct="false" it="Tallone" en="Heel" />
+    </question>
+    <question id="eye-05" level="1" source="anatomy">
+      <prompt it="Quale liquido mantiene umida la superficie dell'occhio?" en="Which fluid keeps the eye surface moist?" />
+      <explanation it="Le lacrime lubrificano la superficie dell'occhio." en="Tears lubricate the eye surface." />
+      <option id="0" correct="true" it="Lacrime" en="Tears" />
+      <option id="1" correct="false" it="Sangue" en="Blood" />
+      <option id="2" correct="false" it="Succo gastrico" en="Gastric juice" />
+      <option id="3" correct="false" it="Sebo" en="Skin oil" />
+    </question>
+    <question id="eye-06" level="2" source="anatomy">
+      <prompt it="Quale parte dell'occhio contiene cellule sensibili alla luce?" en="Which part of the eye contains light-sensitive cells?" />
+      <explanation it="La retina trasforma la luce in segnali nervosi." en="The retina transforms light into nerve signals." />
+      <option id="0" correct="true" it="Retina" en="Retina" />
+      <option id="1" correct="false" it="Unghia" en="Nail" />
+      <option id="2" correct="false" it="Mandibola" en="Mandible" />
+      <option id="3" correct="false" it="Tendine" en="Tendon" />
+    </question>
+    <question id="eye-07" level="2" source="anatomy">
+      <prompt it="Quale nervo porta informazioni visive al cervello?" en="Which nerve carries visual information to the brain?" />
+      <explanation it="Il nervo ottico trasporta i segnali dalla retina al cervello." en="The optic nerve carries signals from the retina to the brain." />
+      <option id="0" correct="true" it="Nervo ottico" en="Optic nerve" />
+      <option id="1" correct="false" it="Nervo sciatico" en="Sciatic nerve" />
+      <option id="2" correct="false" it="Tendine rotuleo" en="Patellar tendon" />
+      <option id="3" correct="false" it="Legamento crociato" en="Cruciate ligament" />
+    </question>
+    <question id="eye-08" level="2" source="anatomy">
+      <prompt it="Quale struttura trasparente copre la parte anteriore dell'occhio?" en="Which transparent structure covers the front of the eye?" />
+      <explanation it="La cornea è la superficie trasparente anteriore dell'occhio." en="The cornea is the transparent front surface of the eye." />
+      <option id="0" correct="true" it="Cornea" en="Cornea" />
+      <option id="1" correct="false" it="Iride" en="Iris" />
+      <option id="2" correct="false" it="Sopracciglio" en="Eyebrow" />
+      <option id="3" correct="false" it="Retina" en="Retina" />
+    </question>
+    <question id="eye-09" level="2" source="anatomy">
+      <prompt it="Quale lente interna aiuta a mettere a fuoco?" en="Which internal lens helps focus light?" />
+      <explanation it="Il cristallino aiuta a focalizzare la luce sulla retina." en="The lens helps focus light on the retina." />
+      <option id="0" correct="true" it="Cristallino" en="Lens" />
+      <option id="1" correct="false" it="Coclea" en="Cochlea" />
+      <option id="2" correct="false" it="Timpano" en="Eardrum" />
+      <option id="3" correct="false" it="Sterno" en="Sternum" />
+    </question>
+    <question id="eye-10" level="2" source="anatomy">
+      <prompt it="Come si chiamano le cellule retiniche importanti per i colori?" en="What are the retinal cells important for color called?" />
+      <explanation it="I coni sono fotorecettori che permettono la visione dei colori." en="Cones are photoreceptors that enable color vision." />
+      <option id="0" correct="true" it="Coni" en="Cones" />
+      <option id="1" correct="false" it="Piastrine" en="Platelets" />
+      <option id="2" correct="false" it="Follicoli" en="Follicles" />
+      <option id="3" correct="false" it="Tendini" en="Tendons" />
+    </question>
+  </category>
+  <category id="ear" it="Orecchie" en="Ears" descriptionIt="Le orecchie permettono di sentire. Nell’orecchio interno si trovano anche strutture coinvolte nell’equilibrio." descriptionEn="Ears allow us to hear. The inner ear also contains structures involved in balance.">
+    <question id="ear-01" level="1" source="anatomy">
+      <prompt it="Quale senso usiamo con le orecchie?" en="Which sense do we use with our ears?" />
+      <explanation it="Le orecchie raccolgono suoni e li trasformano in segnali nervosi." en="Ears collect sounds and transform them into nerve signals." />
+      <option id="0" correct="true" it="Udito" en="Hearing" />
+      <option id="1" correct="false" it="Vista" en="Sight" />
+      <option id="2" correct="false" it="Gusto" en="Taste" />
+      <option id="3" correct="false" it="Olfatto" en="Smell" />
+    </question>
+    <question id="ear-02" level="1" source="anatomy">
+      <prompt it="Dove si trovano le orecchie esterne?" en="Where are the outer ears?" />
+      <explanation it="Le orecchie esterne si trovano ai lati della testa." en="The outer ears are on the sides of the head." />
+      <option id="0" correct="true" it="Ai lati della testa" en="On the sides of the head" />
+      <option id="1" correct="false" it="Sulle ginocchia" en="On the knees" />
+      <option id="2" correct="false" it="Sui piedi" en="On the feet" />
+      <option id="3" correct="false" it="Sul palmo" en="On the palm" />
+    </question>
+    <question id="ear-03" level="1" source="anatomy">
+      <prompt it="Quale parte dell'orecchio è morbida e si trova in basso?" en="Which soft part is at the bottom of the outer ear?" />
+      <explanation it="Il lobo è la parte inferiore morbida del padiglione auricolare." en="The earlobe is the soft lower part of the outer ear." />
+      <option id="0" correct="true" it="Lobo" en="Earlobe" />
+      <option id="1" correct="false" it="Pupilla" en="Pupil" />
+      <option id="2" correct="false" it="Rotula" en="Patella" />
+      <option id="3" correct="false" it="Unghia" en="Nail" />
+    </question>
+    <question id="ear-04" level="1" source="anatomy">
+      <prompt it="Quale membrana vibra quando arriva un suono?" en="Which membrane vibrates when sound arrives?" />
+      <explanation it="Le onde sonore fanno vibrare il timpano." en="Sound waves make the eardrum vibrate." />
+      <option id="0" correct="true" it="Timpano" en="Eardrum" />
+      <option id="1" correct="false" it="Retina" en="Retina" />
+      <option id="2" correct="false" it="Iride" en="Iris" />
+      <option id="3" correct="false" it="Smalto" en="Enamel" />
+    </question>
+    <question id="ear-05" level="1" source="anatomy">
+      <prompt it="Quale comportamento protegge l'udito?" en="Which behavior protects hearing?" />
+      <explanation it="Rumori intensi possono danneggiare l'udito: distanza e protezione aiutano." en="Intense noise can damage hearing: distance and protection help." />
+      <option id="0" correct="true" it="Allontanarsi dai rumori troppo forti" en="Moving away from very loud sounds" />
+      <option id="1" correct="false" it="Alzare sempre il volume" en="Always turning volume up" />
+      <option id="2" correct="false" it="Inserire oggetti nell'orecchio" en="Putting objects in the ear" />
+      <option id="3" correct="false" it="Avvicinarsi agli altoparlanti forti" en="Moving close to loud speakers" />
+    </question>
+    <question id="ear-06" level="2" source="anatomy">
+      <prompt it="Quale struttura a spirale si trova nell'orecchio interno?" en="Which spiral structure is in the inner ear?" />
+      <explanation it="La coclea contiene cellule che contribuiscono a trasformare vibrazioni in segnali." en="The cochlea contains cells that help turn vibrations into signals." />
+      <option id="0" correct="true" it="Coclea" en="Cochlea" />
+      <option id="1" correct="false" it="Scapola" en="Scapula" />
+      <option id="2" correct="false" it="Cornea" en="Cornea" />
+      <option id="3" correct="false" it="Tibia" en="Tibia" />
+    </question>
+    <question id="ear-07" level="2" source="anatomy">
+      <prompt it="Quali strutture dell'orecchio interno rilevano rotazioni della testa?" en="Which inner-ear structures detect head rotation?" />
+      <explanation it="I canali semicircolari fanno parte del sistema dell'equilibrio." en="The semicircular canals are part of the balance system." />
+      <option id="0" correct="true" it="Canali semicircolari" en="Semicircular canals" />
+      <option id="1" correct="false" it="Ciglia" en="Eyelashes" />
+      <option id="2" correct="false" it="Follicoli" en="Follicles" />
+      <option id="3" correct="false" it="Denti" en="Teeth" />
+    </question>
+    <question id="ear-08" level="2" source="anatomy">
+      <prompt it="Quale ossicino dell'orecchio ha il nome di un attrezzo?" en="Which ear bone is named after a tool?" />
+      <explanation it="Martello, incudine e staffa trasmettono vibrazioni nell'orecchio medio." en="The hammer, anvil and stirrup transmit vibrations in the middle ear." />
+      <option id="0" correct="true" it="Martello" en="Hammer" />
+      <option id="1" correct="false" it="Femore" en="Femur" />
+      <option id="2" correct="false" it="Tibia" en="Tibia" />
+      <option id="3" correct="false" it="Rotula" en="Patella" />
+    </question>
+    <question id="ear-09" level="2" source="anatomy">
+      <prompt it="Quale tubo collega l'orecchio medio alla parte posteriore del naso?" en="Which tube links the middle ear to the back of the nose?" />
+      <explanation it="La tuba di Eustachio aiuta a equilibrare la pressione nell'orecchio medio." en="The Eustachian tube helps equalize pressure in the middle ear." />
+      <option id="0" correct="true" it="Tuba di Eustachio" en="Eustachian tube" />
+      <option id="1" correct="false" it="Trachea" en="Trachea" />
+      <option id="2" correct="false" it="Uretere" en="Ureter" />
+      <option id="3" correct="false" it="Esofago" en="Esophagus" />
+    </question>
+    <question id="ear-10" level="2" source="anatomy">
+      <prompt it="Quale struttura porta informazioni uditive al cervello?" en="Which structure carries hearing information to the brain?" />
+      <explanation it="Il nervo uditivo trasmette segnali dall'orecchio interno al cervello." en="The auditory nerve carries signals from the inner ear to the brain." />
+      <option id="0" correct="true" it="Nervo uditivo" en="Auditory nerve" />
+      <option id="1" correct="false" it="Tendine di Achille" en="Achilles tendon" />
+      <option id="2" correct="false" it="Nervo ottico" en="Optic nerve" />
+      <option id="3" correct="false" it="Legamento del ginocchio" en="Knee ligament" />
+    </question>
+  </category>
+  <category id="shoulder" it="Spalle" en="Shoulders" descriptionIt="La spalla collega il braccio al tronco. Permette un’ampia varietà di movimenti." descriptionEn="The shoulder connects the arm to the trunk. It allows a wide range of movement.">
+    <question id="shoulder-01" level="1" source="anatomy">
+      <prompt it="Quale parte collega il braccio al tronco?" en="Which part connects the arm to the trunk?" />
+      <explanation it="La spalla collega l'arto superiore al tronco." en="The shoulder connects the upper limb to the trunk." />
+      <option id="0" correct="true" it="Spalla" en="Shoulder" />
+      <option id="1" correct="false" it="Caviglia" en="Ankle" />
+      <option id="2" correct="false" it="Ginocchio" en="Knee" />
+      <option id="3" correct="false" it="Polso" en="Wrist" />
+    </question>
+    <question id="shoulder-02" level="1" source="anatomy">
+      <prompt it="Quale azione usa molto la spalla?" en="Which action uses the shoulder a lot?" />
+      <explanation it="La spalla permette di sollevare e orientare il braccio." en="The shoulder allows us to lift and position the arm." />
+      <option id="0" correct="true" it="Alzare il braccio" en="Raising the arm" />
+      <option id="1" correct="false" it="Battere le palpebre" en="Blinking" />
+      <option id="2" correct="false" it="Masticare" en="Chewing" />
+      <option id="3" correct="false" it="Muovere le dita dei piedi" en="Moving the toes" />
+    </question>
+    <question id="shoulder-03" level="1" source="anatomy">
+      <prompt it="Quale osso si trova dietro la spalla?" en="Which bone is behind the shoulder?" />
+      <explanation it="La scapola è un osso piatto nella parte superiore della schiena." en="The scapula is a flat bone in the upper back." />
+      <option id="0" correct="true" it="Scapola" en="Shoulder blade" />
+      <option id="1" correct="false" it="Rotula" en="Kneecap" />
+      <option id="2" correct="false" it="Tibia" en="Tibia" />
+      <option id="3" correct="false" it="Mandibola" en="Mandible" />
+    </question>
+    <question id="shoulder-04" level="1" source="anatomy">
+      <prompt it="Quale osso attraversa la parte alta anteriore del torace?" en="Which bone crosses the upper front of the chest?" />
+      <explanation it="La clavicola contribuisce a collegare la spalla al tronco." en="The clavicle helps connect the shoulder to the trunk." />
+      <option id="0" correct="true" it="Clavicola" en="Collarbone" />
+      <option id="1" correct="false" it="Femore" en="Femur" />
+      <option id="2" correct="false" it="Calcagno" en="Heel bone" />
+      <option id="3" correct="false" it="Perone" en="Fibula" />
+    </question>
+    <question id="shoulder-05" level="1" source="anatomy">
+      <prompt it="Quale muscolo dà alla spalla il suo profilo arrotondato?" en="Which muscle gives the shoulder its rounded shape?" />
+      <explanation it="Il deltoide ricopre la spalla e aiuta a muovere il braccio." en="The deltoid covers the shoulder and helps move the arm." />
+      <option id="0" correct="true" it="Deltoide" en="Deltoid" />
+      <option id="1" correct="false" it="Polpaccio" en="Calf muscle" />
+      <option id="2" correct="false" it="Massetere" en="Masseter" />
+      <option id="3" correct="false" it="Diaframma" en="Diaphragm" />
+    </question>
+    <question id="shoulder-06" level="2" source="anatomy">
+      <prompt it="Quali ossa formano l'articolazione principale della spalla?" en="Which bones form the main shoulder joint?" />
+      <explanation it="La testa dell'omero si articola con la cavità glenoidea della scapola." en="The head of the humerus articulates with the glenoid socket of the scapula." />
+      <option id="0" correct="true" it="Omero e scapola" en="Humerus and scapula" />
+      <option id="1" correct="false" it="Femore e tibia" en="Femur and tibia" />
+      <option id="2" correct="false" it="Radio e ulna" en="Radius and ulna" />
+      <option id="3" correct="false" it="Tibia e perone" en="Tibia and fibula" />
+    </question>
+    <question id="shoulder-07" level="2" source="anatomy">
+      <prompt it="Quale gruppo di muscoli stabilizza la spalla?" en="Which muscle group stabilizes the shoulder?" />
+      <explanation it="La cuffia dei rotatori aiuta a stabilizzare e ruotare il braccio." en="The rotator cuff helps stabilize and rotate the arm." />
+      <option id="0" correct="true" it="Cuffia dei rotatori" en="Rotator cuff" />
+      <option id="1" correct="false" it="Muscoli del polpaccio" en="Calf muscles" />
+      <option id="2" correct="false" it="Muscoli della lingua" en="Tongue muscles" />
+      <option id="3" correct="false" it="Muscoli del piede" en="Foot muscles" />
+    </question>
+    <question id="shoulder-08" level="2" source="anatomy">
+      <prompt it="Qual è la forma dell'articolazione principale della spalla?" en="What type is the main shoulder joint?" />
+      <explanation it="L'articolazione a sfera consente movimenti in più direzioni." en="A ball-and-socket joint allows movement in several directions." />
+      <option id="0" correct="true" it="A sfera" en="Ball-and-socket" />
+      <option id="1" correct="false" it="Sutura immobile" en="Immovable suture" />
+      <option id="2" correct="false" it="Solo a cerniera" en="Hinge only" />
+      <option id="3" correct="false" it="Senza ossa" en="Without bones" />
+    </question>
+    <question id="shoulder-09" level="2" source="anatomy">
+      <prompt it="Quale tessuto collega un muscolo della spalla a un osso?" en="Which tissue connects a shoulder muscle to a bone?" />
+      <explanation it="I tendini collegano i muscoli alle ossa." en="Tendons connect muscles to bones." />
+      <option id="0" correct="true" it="Tendine" en="Tendon" />
+      <option id="1" correct="false" it="Smalto" en="Enamel" />
+      <option id="2" correct="false" it="Capello" en="Hair" />
+      <option id="3" correct="false" it="Retina" en="Retina" />
+    </question>
+    <question id="shoulder-10" level="2" source="anatomy">
+      <prompt it="Quale movimento porta il braccio lateralmente lontano dal tronco?" en="Which movement takes the arm sideways away from the trunk?" />
+      <explanation it="L'abduzione allontana un segmento dalla linea mediana del corpo." en="Abduction moves a body segment away from the midline." />
+      <option id="0" correct="true" it="Abduzione" en="Abduction" />
+      <option id="1" correct="false" it="Masticazione" en="Chewing" />
+      <option id="2" correct="false" it="Deglutizione" en="Swallowing" />
+      <option id="3" correct="false" it="Ammiccamento" en="Blinking" />
+    </question>
+  </category>
+  <category id="arm" it="Braccia" en="Arms" descriptionIt="Ossa, muscoli e articolazioni del braccio lavorano insieme per avvicinare, sollevare e spostare oggetti." descriptionEn="Bones, muscles and joints of the arm work together to bring, lift and move objects.">
+    <question id="arm-01" level="1" source="anatomy">
+      <prompt it="Quale articolazione permette di piegare il braccio a metà?" en="Which joint lets us bend the arm near its middle?" />
+      <explanation it="Il gomito collega braccio e avambraccio." en="The elbow connects the upper arm and forearm." />
+      <option id="0" correct="true" it="Gomito" en="Elbow" />
+      <option id="1" correct="false" it="Ginocchio" en="Knee" />
+      <option id="2" correct="false" it="Caviglia" en="Ankle" />
+      <option id="3" correct="false" it="Mandibola" en="Jaw" />
+    </question>
+    <question id="arm-02" level="1" source="anatomy">
+      <prompt it="Quale articolazione collega avambraccio e mano?" en="Which joint connects the forearm and hand?" />
+      <explanation it="Il polso si trova tra avambraccio e mano." en="The wrist is between the forearm and hand." />
+      <option id="0" correct="true" it="Polso" en="Wrist" />
+      <option id="1" correct="false" it="Spalla" en="Shoulder" />
+      <option id="2" correct="false" it="Anca" en="Hip" />
+      <option id="3" correct="false" it="Ginocchio" en="Knee" />
+    </question>
+    <question id="arm-03" level="1" source="anatomy">
+      <prompt it="Come si chiama l'osso del braccio tra spalla e gomito?" en="What is the bone between shoulder and elbow called?" />
+      <explanation it="L'omero è l'osso della parte superiore del braccio." en="The humerus is the bone of the upper arm." />
+      <option id="0" correct="true" it="Omero" en="Humerus" />
+      <option id="1" correct="false" it="Femore" en="Femur" />
+      <option id="2" correct="false" it="Tibia" en="Tibia" />
+      <option id="3" correct="false" it="Rotula" en="Patella" />
+    </question>
+    <question id="arm-04" level="1" source="anatomy">
+      <prompt it="Quale attività richiede il movimento delle braccia?" en="Which activity requires arm movement?" />
+      <explanation it="Per lanciare collaborano spalla, gomito e polso." en="The shoulder, elbow and wrist work together when throwing." />
+      <option id="0" correct="true" it="Lanciare una palla" en="Throwing a ball" />
+      <option id="1" correct="false" it="Sentire un suono" en="Hearing a sound" />
+      <option id="2" correct="false" it="Percepire un odore" en="Smelling an odor" />
+      <option id="3" correct="false" it="Battere le palpebre" en="Blinking" />
+    </question>
+    <question id="arm-05" level="1" source="anatomy">
+      <prompt it="Quale tessuto si contrae per muovere il braccio?" en="Which tissue contracts to move the arm?" />
+      <explanation it="I muscoli sviluppano forza contraendosi." en="Muscles produce force by contracting." />
+      <option id="0" correct="true" it="Muscolo" en="Muscle" />
+      <option id="1" correct="false" it="Smalto" en="Enamel" />
+      <option id="2" correct="false" it="Capello" en="Hair" />
+      <option id="3" correct="false" it="Unghia" en="Nail" />
+    </question>
+    <question id="arm-06" level="2" source="anatomy">
+      <prompt it="Quali sono le due ossa dell'avambraccio?" en="What are the two forearm bones?" />
+      <explanation it="L'avambraccio contiene radio e ulna." en="The forearm contains the radius and ulna." />
+      <option id="0" correct="true" it="Radio e ulna" en="Radius and ulna" />
+      <option id="1" correct="false" it="Tibia e perone" en="Tibia and fibula" />
+      <option id="2" correct="false" it="Femore e rotula" en="Femur and patella" />
+      <option id="3" correct="false" it="Scapola e sterno" en="Scapula and sternum" />
+    </question>
+    <question id="arm-07" level="2" source="anatomy">
+      <prompt it="Quale muscolo aiuta a piegare il gomito?" en="Which muscle helps bend the elbow?" />
+      <explanation it="Il bicipite contribuisce alla flessione del gomito." en="The biceps contributes to elbow flexion." />
+      <option id="0" correct="true" it="Bicipite" en="Biceps" />
+      <option id="1" correct="false" it="Tricipite" en="Triceps" />
+      <option id="2" correct="false" it="Polpaccio" en="Calf muscle" />
+      <option id="3" correct="false" it="Diaframma" en="Diaphragm" />
+    </question>
+    <question id="arm-08" level="2" source="anatomy">
+      <prompt it="Quale muscolo aiuta a raddrizzare il gomito?" en="Which muscle helps straighten the elbow?" />
+      <explanation it="Il tricipite contribuisce all'estensione del gomito." en="The triceps contributes to elbow extension." />
+      <option id="0" correct="true" it="Tricipite" en="Triceps" />
+      <option id="1" correct="false" it="Bicipite" en="Biceps" />
+      <option id="2" correct="false" it="Deltoide" en="Deltoid" />
+      <option id="3" correct="false" it="Massetere" en="Masseter" />
+    </question>
+    <question id="arm-09" level="2" source="anatomy">
+      <prompt it="Quale osso dell'avambraccio è dal lato del pollice?" en="Which forearm bone is on the thumb side?" />
+      <explanation it="In posizione anatomica il radio è dal lato del pollice." en="In anatomical position the radius is on the thumb side." />
+      <option id="0" correct="true" it="Radio" en="Radius" />
+      <option id="1" correct="false" it="Ulna" en="Ulna" />
+      <option id="2" correct="false" it="Femore" en="Femur" />
+      <option id="3" correct="false" it="Sterno" en="Sternum" />
+    </question>
+    <question id="arm-10" level="2" source="anatomy">
+      <prompt it="Come si chiama il movimento che piega il gomito?" en="What is the movement that bends the elbow called?" />
+      <explanation it="La flessione riduce l'angolo tra braccio e avambraccio." en="Flexion decreases the angle between the upper arm and forearm." />
+      <option id="0" correct="true" it="Flessione" en="Flexion" />
+      <option id="1" correct="false" it="Estensione" en="Extension" />
+      <option id="2" correct="false" it="Visione" en="Vision" />
+      <option id="3" correct="false" it="Deglutizione" en="Swallowing" />
+    </question>
+  </category>
+  <category id="hand" it="Mani" en="Hands" descriptionIt="Le mani consentono di afferrare e manipolare gli oggetti. La pelle contiene recettori del tatto." descriptionEn="Hands let us grasp and manipulate objects. The skin contains touch receptors.">
+    <question id="hand-01" level="1" source="anatomy">
+      <prompt it="Quale parte usiamo per afferrare una matita?" en="Which part do we use to grasp a pencil?" />
+      <explanation it="Mano e dita permettono prese precise." en="The hand and fingers allow precise grips." />
+      <option id="0" correct="true" it="Mano" en="Hand" />
+      <option id="1" correct="false" it="Orecchio" en="Ear" />
+      <option id="2" correct="false" it="Ginocchio" en="Knee" />
+      <option id="3" correct="false" it="Tallone" en="Heel" />
+    </question>
+    <question id="hand-02" level="1" source="anatomy">
+      <prompt it="Come si chiama la superficie interna della mano?" en="What is the inner surface of the hand called?" />
+      <explanation it="Il palmo è la superficie della mano opposta al dorso." en="The palm is the hand surface opposite the back." />
+      <option id="0" correct="true" it="Palmo" en="Palm" />
+      <option id="1" correct="false" it="Pianta" en="Sole" />
+      <option id="2" correct="false" it="Nuca" en="Nape" />
+      <option id="3" correct="false" it="Fronte" en="Forehead" />
+    </question>
+    <question id="hand-03" level="1" source="anatomy">
+      <prompt it="Quante dita ha di solito una mano, incluso il pollice?" en="How many digits does a hand usually have, including the thumb?" />
+      <explanation it="Una mano ha di solito cinque dita, incluso il pollice." en="A hand usually has five digits, including the thumb." />
+      <option id="0" correct="true" it="Cinque" en="Five" />
+      <option id="1" correct="false" it="Tre" en="Three" />
+      <option id="2" correct="false" it="Sette" en="Seven" />
+      <option id="3" correct="false" it="Dieci" en="Ten" />
+    </question>
+    <question id="hand-04" level="1" source="anatomy">
+      <prompt it="Quale senso aiuta la mano a riconoscere una superficie ruvida?" en="Which sense helps the hand recognize a rough surface?" />
+      <explanation it="I recettori cutanei contribuiscono al tatto." en="Skin receptors contribute to touch." />
+      <option id="0" correct="true" it="Tatto" en="Touch" />
+      <option id="1" correct="false" it="Gusto" en="Taste" />
+      <option id="2" correct="false" it="Udito" en="Hearing" />
+      <option id="3" correct="false" it="Vista soltanto" en="Sight only" />
+    </question>
+    <question id="hand-05" level="1" source="anatomy">
+      <prompt it="Quale gesto aiuta l'igiene delle mani?" en="Which action helps hand hygiene?" />
+      <explanation it="Acqua e sapone aiutano a rimuovere sporco e microrganismi." en="Soap and water help remove dirt and microorganisms." />
+      <option id="0" correct="true" it="Lavare con acqua e sapone" en="Washing with soap and water" />
+      <option id="1" correct="false" it="Strofinare con terra" en="Rubbing with soil" />
+      <option id="2" correct="false" it="Usare solo un guanto sporco" en="Using only a dirty glove" />
+      <option id="3" correct="false" it="Non pulirle mai" en="Never cleaning them" />
+    </question>
+    <question id="hand-06" level="2" source="anatomy">
+      <prompt it="Come si chiamano le ossa del palmo?" en="What are the palm bones called?" />
+      <explanation it="I metacarpi formano lo scheletro del palmo." en="Metacarpals form the skeleton of the palm." />
+      <option id="0" correct="true" it="Metacarpi" en="Metacarpals" />
+      <option id="1" correct="false" it="Metatarsi" en="Metatarsals" />
+      <option id="2" correct="false" it="Costole" en="Ribs" />
+      <option id="3" correct="false" it="Vertebre" en="Vertebrae" />
+    </question>
+    <question id="hand-07" level="2" source="anatomy">
+      <prompt it="Come si chiamano le piccole ossa del polso?" en="What are the small wrist bones called?" />
+      <explanation it="Le ossa del carpo sono alla base della mano." en="Carpal bones are at the base of the hand." />
+      <option id="0" correct="true" it="Ossa del carpo" en="Carpal bones" />
+      <option id="1" correct="false" it="Ossa del tarso" en="Tarsal bones" />
+      <option id="2" correct="false" it="Costole" en="Ribs" />
+      <option id="3" correct="false" it="Ossa del cranio" en="Skull bones" />
+    </question>
+    <question id="hand-08" level="2" source="anatomy">
+      <prompt it="Quale dito può opporsi alle altre dita nella presa?" en="Which digit can oppose the others during a grip?" />
+      <explanation it="L'opposizione del pollice rende possibili molte prese precise." en="Thumb opposition enables many precise grips." />
+      <option id="0" correct="true" it="Pollice" en="Thumb" />
+      <option id="1" correct="false" it="Mignolo del piede" en="Little toe" />
+      <option id="2" correct="false" it="Alluce" en="Big toe" />
+      <option id="3" correct="false" it="Nessun dito" en="No digit" />
+    </question>
+    <question id="hand-09" level="2" source="anatomy">
+      <prompt it="Quali strutture trasmettono alle dita la forza dei muscoli?" en="Which structures transmit muscle force to the fingers?" />
+      <explanation it="Molti muscoli muovono le dita attraverso tendini." en="Many muscles move the fingers through tendons." />
+      <option id="0" correct="true" it="Tendini" en="Tendons" />
+      <option id="1" correct="false" it="Capelli" en="Hair" />
+      <option id="2" correct="false" it="Ciglia" en="Eyelashes" />
+      <option id="3" correct="false" it="Smalto" en="Enamel" />
+    </question>
+    <question id="hand-10" level="2" source="anatomy">
+      <prompt it="Che cosa porta informazioni tattili dalla mano al sistema nervoso?" en="What carries touch information from the hand to the nervous system?" />
+      <explanation it="I nervi trasportano segnali sensoriali e motori." en="Nerves carry sensory and motor signals." />
+      <option id="0" correct="true" it="Nervi" en="Nerves" />
+      <option id="1" correct="false" it="Unghie" en="Nails" />
+      <option id="2" correct="false" it="Capelli" en="Hair" />
+      <option id="3" correct="false" it="Legamenti soltanto" en="Ligaments only" />
+    </question>
+  </category>
+  <category id="finger" it="Dita della mano" en="Fingers" descriptionIt="Le dita aiutano a esplorare con il tatto e a compiere movimenti precisi. Le loro ossa si chiamano falangi." descriptionEn="Fingers help us explore through touch and make precise movements. Their bones are called phalanges.">
+    <question id="finger-01" level="1" source="anatomy">
+      <prompt it="Quale dito è accanto al pollice?" en="Which finger is next to the thumb?" />
+      <explanation it="L'indice si trova tra pollice e medio." en="The index finger is between the thumb and middle finger." />
+      <option id="0" correct="true" it="Indice" en="Index finger" />
+      <option id="1" correct="false" it="Mignolo" en="Little finger" />
+      <option id="2" correct="false" it="Anulare" en="Ring finger" />
+      <option id="3" correct="false" it="Alluce" en="Big toe" />
+    </question>
+    <question id="finger-02" level="1" source="anatomy">
+      <prompt it="Come si chiama il dito centrale della mano?" en="What is the middle finger called?" />
+      <explanation it="Il medio si trova tra indice e anulare." en="The middle finger is between the index and ring fingers." />
+      <option id="0" correct="true" it="Medio" en="Middle finger" />
+      <option id="1" correct="false" it="Pollice" en="Thumb" />
+      <option id="2" correct="false" it="Indice" en="Index finger" />
+      <option id="3" correct="false" it="Alluce" en="Big toe" />
+    </question>
+    <question id="finger-03" level="1" source="anatomy">
+      <prompt it="Come si chiama il dito più piccolo della mano?" en="What is the smallest finger called?" />
+      <explanation it="Il mignolo è sul lato della mano opposto al pollice." en="The little finger is on the side opposite the thumb." />
+      <option id="0" correct="true" it="Mignolo" en="Little finger" />
+      <option id="1" correct="false" it="Alluce" en="Big toe" />
+      <option id="2" correct="false" it="Medio" en="Middle finger" />
+      <option id="3" correct="false" it="Indice" en="Index finger" />
+    </question>
+    <question id="finger-04" level="1" source="anatomy">
+      <prompt it="Quale struttura dura protegge la punta delle dita?" en="Which hard structure protects the fingertips?" />
+      <explanation it="Le unghie proteggono la parte superiore delle punte delle dita." en="Nails protect the upper part of the fingertips." />
+      <option id="0" correct="true" it="Unghia" en="Nail" />
+      <option id="1" correct="false" it="Pupilla" en="Pupil" />
+      <option id="2" correct="false" it="Timpano" en="Eardrum" />
+      <option id="3" correct="false" it="Follicolo" en="Follicle" />
+    </question>
+    <question id="finger-05" level="1" source="anatomy">
+      <prompt it="Quale parte è molto utile per percepire piccoli dettagli al tatto?" en="Which part is useful for feeling small details?" />
+      <explanation it="I polpastrelli sono ricchi di recettori tattili." en="Fingertip pads have many touch receptors." />
+      <option id="0" correct="true" it="Polpastrello" en="Fingertip pad" />
+      <option id="1" correct="false" it="Capelli" en="Hair" />
+      <option id="2" correct="false" it="Smalto del dente" en="Tooth enamel" />
+      <option id="3" correct="false" it="Lobo" en="Earlobe" />
+    </question>
+    <question id="finger-06" level="2" source="anatomy">
+      <prompt it="Come si chiamano le ossa delle dita?" en="What are finger bones called?" />
+      <explanation it="Le falangi formano lo scheletro delle dita." en="Phalanges form the skeleton of the fingers." />
+      <option id="0" correct="true" it="Falangi" en="Phalanges" />
+      <option id="1" correct="false" it="Costole" en="Ribs" />
+      <option id="2" correct="false" it="Vertebre" en="Vertebrae" />
+      <option id="3" correct="false" it="Clavicole" en="Clavicles" />
+    </question>
+    <question id="finger-07" level="2" source="anatomy">
+      <prompt it="Quante falangi ha di solito il pollice?" en="How many phalanges does the thumb usually have?" />
+      <explanation it="Il pollice ha due falangi, mentre le altre dita ne hanno tre." en="The thumb has two phalanges, while the other fingers have three." />
+      <option id="0" correct="true" it="Due" en="Two" />
+      <option id="1" correct="false" it="Tre" en="Three" />
+      <option id="2" correct="false" it="Cinque" en="Five" />
+      <option id="3" correct="false" it="Sette" en="Seven" />
+    </question>
+    <question id="finger-08" level="2" source="anatomy">
+      <prompt it="Quante falangi ha di solito l'indice?" en="How many phalanges does the index finger usually have?" />
+      <explanation it="L'indice ha una falange prossimale, una media e una distale." en="The index has a proximal, middle and distal phalanx." />
+      <option id="0" correct="true" it="Tre" en="Three" />
+      <option id="1" correct="false" it="Una" en="One" />
+      <option id="2" correct="false" it="Due" en="Two" />
+      <option id="3" correct="false" it="Sei" en="Six" />
+    </question>
+    <question id="finger-09" level="2" source="anatomy">
+      <prompt it="Quale proteina è abbondante nelle unghie?" en="Which protein is abundant in nails?" />
+      <explanation it="Le unghie sono ricche di cheratina." en="Nails are rich in keratin." />
+      <option id="0" correct="true" it="Cheratina" en="Keratin" />
+      <option id="1" correct="false" it="Insulina" en="Insulin" />
+      <option id="2" correct="false" it="Emoglobina" en="Hemoglobin" />
+      <option id="3" correct="false" it="Amilasi" en="Amylase" />
+    </question>
+    <question id="finger-10" level="2" source="anatomy">
+      <prompt it="Come si chiamano i disegni delle creste sulla pelle dei polpastrelli?" en="What are the ridge patterns on fingertip skin called?" />
+      <explanation it="Le impronte digitali sono formate dalle creste della pelle." en="Fingerprints are formed by skin ridges." />
+      <option id="0" correct="true" it="Impronte digitali" en="Fingerprints" />
+      <option id="1" correct="false" it="Lacrime" en="Tears" />
+      <option id="2" correct="false" it="Follicoli" en="Follicles" />
+      <option id="3" correct="false" it="Tendini" en="Tendons" />
+    </question>
+  </category>
+  <category id="leg" it="Gambe" en="Legs" descriptionIt="Gli arti inferiori sostengono il corpo e permettono di camminare, correre e saltare." descriptionEn="The lower limbs support the body and allow walking, running and jumping.">
+    <question id="leg-01" level="1" source="anatomy">
+      <prompt it="Quale parte del corpo sostiene il peso quando stiamo in piedi?" en="Which part supports weight when we stand?" />
+      <explanation it="Gli arti inferiori trasmettono il peso del corpo al terreno." en="The lower limbs transmit body weight to the ground." />
+      <option id="0" correct="true" it="Arti inferiori" en="Lower limbs" />
+      <option id="1" correct="false" it="Ciglia" en="Eyelashes" />
+      <option id="2" correct="false" it="Orecchie" en="Ears" />
+      <option id="3" correct="false" it="Capelli" en="Hair" />
+    </question>
+    <question id="leg-02" level="1" source="anatomy">
+      <prompt it="Quale articolazione collega la coscia al bacino?" en="Which joint connects the thigh to the pelvis?" />
+      <explanation it="L'anca collega femore e bacino." en="The hip connects the femur and pelvis." />
+      <option id="0" correct="true" it="Anca" en="Hip" />
+      <option id="1" correct="false" it="Polso" en="Wrist" />
+      <option id="2" correct="false" it="Gomito" en="Elbow" />
+      <option id="3" correct="false" it="Spalla" en="Shoulder" />
+    </question>
+    <question id="leg-03" level="1" source="anatomy">
+      <prompt it="Quale parte si trova tra anca e ginocchio?" en="Which part lies between hip and knee?" />
+      <explanation it="La coscia è il segmento dell'arto inferiore tra anca e ginocchio." en="The thigh is the lower-limb segment between hip and knee." />
+      <option id="0" correct="true" it="Coscia" en="Thigh" />
+      <option id="1" correct="false" it="Avambraccio" en="Forearm" />
+      <option id="2" correct="false" it="Palmo" en="Palm" />
+      <option id="3" correct="false" it="Nuca" en="Nape" />
+    </question>
+    <question id="leg-04" level="1" source="anatomy">
+      <prompt it="Quale attività coinvolge soprattutto gli arti inferiori?" en="Which activity mainly uses the lower limbs?" />
+      <explanation it="Camminare richiede movimenti coordinati degli arti inferiori." en="Walking requires coordinated movements of the lower limbs." />
+      <option id="0" correct="true" it="Camminare" en="Walking" />
+      <option id="1" correct="false" it="Masticare" en="Chewing" />
+      <option id="2" correct="false" it="Leggere con gli occhi" en="Reading with the eyes" />
+      <option id="3" correct="false" it="Ascoltare" en="Listening" />
+    </question>
+    <question id="leg-05" level="1" source="anatomy">
+      <prompt it="Come si chiama la parte muscolare posteriore sotto il ginocchio?" en="What is the muscular back part below the knee called?" />
+      <explanation it="Il polpaccio si trova nella parte posteriore della gamba." en="The calf is at the back of the lower leg." />
+      <option id="0" correct="true" it="Polpaccio" en="Calf" />
+      <option id="1" correct="false" it="Palmo" en="Palm" />
+      <option id="2" correct="false" it="Fronte" en="Forehead" />
+      <option id="3" correct="false" it="Lobo" en="Earlobe" />
+    </question>
+    <question id="leg-06" level="2" source="anatomy">
+      <prompt it="Qual è l'osso della coscia?" en="What is the thigh bone?" />
+      <explanation it="Il femore è l'osso lungo della coscia." en="The femur is the long bone of the thigh." />
+      <option id="0" correct="true" it="Femore" en="Femur" />
+      <option id="1" correct="false" it="Omero" en="Humerus" />
+      <option id="2" correct="false" it="Radio" en="Radius" />
+      <option id="3" correct="false" it="Ulna" en="Ulna" />
+    </question>
+    <question id="leg-07" level="2" source="anatomy">
+      <prompt it="Quale osso della gamba è più grande e mediale?" en="Which lower-leg bone is larger and medial?" />
+      <explanation it="La tibia è l'osso maggiore della gamba e sostiene gran parte del carico." en="The tibia is the larger lower-leg bone and bears much of the load." />
+      <option id="0" correct="true" it="Tibia" en="Tibia" />
+      <option id="1" correct="false" it="Perone" en="Fibula" />
+      <option id="2" correct="false" it="Radio" en="Radius" />
+      <option id="3" correct="false" it="Clavicola" en="Clavicle" />
+    </question>
+    <question id="leg-08" level="2" source="anatomy">
+      <prompt it="Qual è l'altro osso lungo della gamba, più sottile e laterale?" en="What is the other long lower-leg bone, thinner and lateral?" />
+      <explanation it="Il perone, o fibula, si trova lateralmente alla tibia." en="The fibula lies lateral to the tibia." />
+      <option id="0" correct="true" it="Perone" en="Fibula" />
+      <option id="1" correct="false" it="Ulna" en="Ulna" />
+      <option id="2" correct="false" it="Omero" en="Humerus" />
+      <option id="3" correct="false" it="Sterno" en="Sternum" />
+    </question>
+    <question id="leg-09" level="2" source="anatomy">
+      <prompt it="Quale gruppo muscolare anteriore della coscia estende il ginocchio?" en="Which front thigh muscle group extends the knee?" />
+      <explanation it="Il quadricipite è un importante estensore del ginocchio." en="The quadriceps is an important knee extensor." />
+      <option id="0" correct="true" it="Quadricipite" en="Quadriceps" />
+      <option id="1" correct="false" it="Bicipite del braccio" en="Biceps brachii" />
+      <option id="2" correct="false" it="Deltoide" en="Deltoid" />
+      <option id="3" correct="false" it="Massetere" en="Masseter" />
+    </question>
+    <question id="leg-10" level="2" source="anatomy">
+      <prompt it="Quale nervo importante attraversa la regione posteriore dell'arto inferiore?" en="Which major nerve runs through the back region of the lower limb?" />
+      <explanation it="Il nervo sciatico porta segnali a gran parte dell'arto inferiore." en="The sciatic nerve carries signals to much of the lower limb." />
+      <option id="0" correct="true" it="Sciatico" en="Sciatic nerve" />
+      <option id="1" correct="false" it="Ottico" en="Optic nerve" />
+      <option id="2" correct="false" it="Uditivo" en="Auditory nerve" />
+      <option id="3" correct="false" it="Olfattivo" en="Olfactory nerve" />
+    </question>
+  </category>
+  <category id="knee" it="Ginocchia" en="Knees" descriptionIt="Il ginocchio permette di piegare e raddrizzare l’arto inferiore. Cartilagine e legamenti aiutano movimento e stabilità." descriptionEn="The knee allows the lower limb to bend and straighten. Cartilage and ligaments help movement and stability.">
+    <question id="knee-01" level="1" source="anatomy">
+      <prompt it="Quale articolazione si trova tra coscia e gamba?" en="Which joint is between thigh and lower leg?" />
+      <explanation it="Il ginocchio si trova tra femore e tibia." en="The knee is between the femur and tibia." />
+      <option id="0" correct="true" it="Ginocchio" en="Knee" />
+      <option id="1" correct="false" it="Polso" en="Wrist" />
+      <option id="2" correct="false" it="Spalla" en="Shoulder" />
+      <option id="3" correct="false" it="Gomito" en="Elbow" />
+    </question>
+    <question id="knee-02" level="1" source="anatomy">
+      <prompt it="Che cosa facciamo al ginocchio quando ci accovacciamo?" en="What do we do at the knee when we squat?" />
+      <explanation it="Accovacciarsi richiede flessione del ginocchio." en="Squatting requires knee flexion." />
+      <option id="0" correct="true" it="Lo pieghiamo" en="We bend it" />
+      <option id="1" correct="false" it="Lo rendiamo immobile" en="We make it immobile" />
+      <option id="2" correct="false" it="Lo usiamo per vedere" en="We use it to see" />
+      <option id="3" correct="false" it="Lo trasformiamo in osso" en="We turn it into bone" />
+    </question>
+    <question id="knee-03" level="1" source="anatomy">
+      <prompt it="Come si chiama l'osso davanti al ginocchio?" en="What is the bone at the front of the knee called?" />
+      <explanation it="La rotula si trova nella parte anteriore del ginocchio." en="The kneecap is at the front of the knee." />
+      <option id="0" correct="true" it="Rotula" en="Kneecap" />
+      <option id="1" correct="false" it="Scapola" en="Shoulder blade" />
+      <option id="2" correct="false" it="Clavicola" en="Collarbone" />
+      <option id="3" correct="false" it="Mandibola" en="Mandible" />
+    </question>
+    <question id="knee-04" level="1" source="anatomy">
+      <prompt it="Quale attività richiede piegamenti ripetuti delle ginocchia?" en="Which activity requires repeated knee bending?" />
+      <explanation it="Salire le scale richiede flessione ed estensione delle ginocchia." en="Climbing stairs requires knee flexion and extension." />
+      <option id="0" correct="true" it="Salire le scale" en="Climbing stairs" />
+      <option id="1" correct="false" it="Ascoltare musica" en="Listening to music" />
+      <option id="2" correct="false" it="Annusare un fiore" en="Smelling a flower" />
+      <option id="3" correct="false" it="Battere le palpebre" en="Blinking" />
+    </question>
+    <question id="knee-05" level="1" source="anatomy">
+      <prompt it="Quale tessuto riveste le superfici articolari?" en="Which tissue covers joint surfaces?" />
+      <explanation it="La cartilagine articolare favorisce lo scorrimento delle superfici." en="Articular cartilage helps joint surfaces glide." />
+      <option id="0" correct="true" it="Cartilagine" en="Cartilage" />
+      <option id="1" correct="false" it="Smalto" en="Enamel" />
+      <option id="2" correct="false" it="Capello" en="Hair" />
+      <option id="3" correct="false" it="Unghia" en="Nail" />
+    </question>
+    <question id="knee-06" level="2" source="anatomy">
+      <prompt it="Quali ossa principali si incontrano al ginocchio?" en="Which main bones meet at the knee?" />
+      <explanation it="Il ginocchio comprende il contatto femore-tibia e quello femore-rotula." en="The knee includes femur-tibia and femur-patella articulations." />
+      <option id="0" correct="true" it="Femore e tibia" en="Femur and tibia" />
+      <option id="1" correct="false" it="Omero e radio" en="Humerus and radius" />
+      <option id="2" correct="false" it="Scapola e clavicola" en="Scapula and clavicle" />
+      <option id="3" correct="false" it="Radio e ulna" en="Radius and ulna" />
+    </question>
+    <question id="knee-07" level="2" source="anatomy">
+      <prompt it="Come si chiamano i cuscinetti fibrocartilaginei nel ginocchio?" en="What are the fibrocartilage pads in the knee called?" />
+      <explanation it="I menischi distribuiscono il carico e contribuiscono alla stabilità." en="Menisci distribute load and contribute to stability." />
+      <option id="0" correct="true" it="Menischi" en="Menisci" />
+      <option id="1" correct="false" it="Ciglia" en="Eyelashes" />
+      <option id="2" correct="false" it="Follicoli" en="Follicles" />
+      <option id="3" correct="false" it="Papille" en="Papillae" />
+    </question>
+    <question id="knee-08" level="2" source="anatomy">
+      <prompt it="Quale tessuto collega osso a osso nel ginocchio?" en="Which tissue connects bone to bone in the knee?" />
+      <explanation it="I legamenti collegano le ossa e guidano o limitano i movimenti." en="Ligaments connect bones and guide or limit movement." />
+      <option id="0" correct="true" it="Legamento" en="Ligament" />
+      <option id="1" correct="false" it="Tendine" en="Tendon" />
+      <option id="2" correct="false" it="Smalto" en="Enamel" />
+      <option id="3" correct="false" it="Pelo" en="Hair" />
+    </question>
+    <question id="knee-09" level="2" source="anatomy">
+      <prompt it="Quale liquido lubrifica l'articolazione del ginocchio?" en="Which fluid lubricates the knee joint?" />
+      <explanation it="Il liquido sinoviale contribuisce alla lubrificazione articolare." en="Synovial fluid contributes to joint lubrication." />
+      <option id="0" correct="true" it="Liquido sinoviale" en="Synovial fluid" />
+      <option id="1" correct="false" it="Saliva" en="Saliva" />
+      <option id="2" correct="false" it="Lacrime" en="Tears" />
+      <option id="3" correct="false" it="Succo gastrico" en="Gastric juice" />
+    </question>
+    <question id="knee-10" level="2" source="anatomy">
+      <prompt it="Come si chiama il movimento che raddrizza il ginocchio?" en="What is the movement that straightens the knee called?" />
+      <explanation it="L'estensione aumenta l'angolo tra coscia e gamba." en="Extension increases the angle between thigh and lower leg." />
+      <option id="0" correct="true" it="Estensione" en="Extension" />
+      <option id="1" correct="false" it="Flessione" en="Flexion" />
+      <option id="2" correct="false" it="Masticazione" en="Chewing" />
+      <option id="3" correct="false" it="Ammiccamento" en="Blinking" />
+    </question>
+  </category>
+  <category id="foot" it="Piedi" en="Feet" descriptionIt="I piedi offrono appoggio al terreno e aiutano equilibrio e movimento. Contengono molte ossa e articolazioni." descriptionEn="Feet provide ground support and help with balance and movement. They contain many bones and joints.">
+    <question id="foot-01" level="1" source="anatomy">
+      <prompt it="Quale parte del corpo appoggiamo al terreno per camminare?" en="Which body part do we place on the ground to walk?" />
+      <explanation it="I piedi sostengono e spostano il corpo durante il cammino." en="Feet support and move the body during walking." />
+      <option id="0" correct="true" it="Piede" en="Foot" />
+      <option id="1" correct="false" it="Orecchio" en="Ear" />
+      <option id="2" correct="false" it="Gomito" en="Elbow" />
+      <option id="3" correct="false" it="Spalla" en="Shoulder" />
+    </question>
+    <question id="foot-02" level="1" source="anatomy">
+      <prompt it="Come si chiama la superficie inferiore del piede?" en="What is the bottom surface of the foot called?" />
+      <explanation it="La pianta è la superficie del piede rivolta verso il terreno." en="The sole is the foot surface facing the ground." />
+      <option id="0" correct="true" it="Pianta" en="Sole" />
+      <option id="1" correct="false" it="Palmo" en="Palm" />
+      <option id="2" correct="false" it="Dorso della mano" en="Back of the hand" />
+      <option id="3" correct="false" it="Fronte" en="Forehead" />
+    </question>
+    <question id="foot-03" level="1" source="anatomy">
+      <prompt it="Come si chiama la parte posteriore del piede?" en="What is the back part of the foot called?" />
+      <explanation it="Il tallone è la regione posteriore del piede." en="The heel is the back region of the foot." />
+      <option id="0" correct="true" it="Tallone" en="Heel" />
+      <option id="1" correct="false" it="Polso" en="Wrist" />
+      <option id="2" correct="false" it="Gomito" en="Elbow" />
+      <option id="3" correct="false" it="Mento" en="Chin" />
+    </question>
+    <question id="foot-04" level="1" source="anatomy">
+      <prompt it="Quale articolazione collega gamba e piede?" en="Which joint connects the lower leg and foot?" />
+      <explanation it="La caviglia consente il movimento tra gamba e piede." en="The ankle allows movement between the lower leg and foot." />
+      <option id="0" correct="true" it="Caviglia" en="Ankle" />
+      <option id="1" correct="false" it="Spalla" en="Shoulder" />
+      <option id="2" correct="false" it="Polso" en="Wrist" />
+      <option id="3" correct="false" it="Anca" en="Hip" />
+    </question>
+    <question id="foot-05" level="1" source="anatomy">
+      <prompt it="A che cosa contribuiscono i piedi quando siamo in piedi?" en="What do feet contribute to when we stand?" />
+      <explanation it="I piedi offrono una base di appoggio per l'equilibrio." en="Feet provide a support base for balance." />
+      <option id="0" correct="true" it="Equilibrio" en="Balance" />
+      <option id="1" correct="false" it="Visione dei colori" en="Color vision" />
+      <option id="2" correct="false" it="Udito" en="Hearing" />
+      <option id="3" correct="false" it="Gusto" en="Taste" />
+    </question>
+    <question id="foot-06" level="2" source="anatomy">
+      <prompt it="Come si chiama l'osso principale del tallone?" en="What is the main heel bone called?" />
+      <explanation it="Il calcagno è il grande osso della parte posteriore del piede." en="The calcaneus is the large bone at the back of the foot." />
+      <option id="0" correct="true" it="Calcagno" en="Calcaneus" />
+      <option id="1" correct="false" it="Rotula" en="Patella" />
+      <option id="2" correct="false" it="Scapola" en="Scapula" />
+      <option id="3" correct="false" it="Sterno" en="Sternum" />
+    </question>
+    <question id="foot-07" level="2" source="anatomy">
+      <prompt it="Quale tendine collega i muscoli del polpaccio al calcagno?" en="Which tendon connects calf muscles to the heel bone?" />
+      <explanation it="Il tendine di Achille trasmette la forza del polpaccio al calcagno." en="The Achilles tendon transmits calf muscle force to the heel bone." />
+      <option id="0" correct="true" it="Tendine di Achille" en="Achilles tendon" />
+      <option id="1" correct="false" it="Tendine del bicipite" en="Biceps tendon" />
+      <option id="2" correct="false" it="Legamento crociato" en="Cruciate ligament" />
+      <option id="3" correct="false" it="Nervo ottico" en="Optic nerve" />
+    </question>
+    <question id="foot-08" level="2" source="anatomy">
+      <prompt it="Come si chiamano le ossa lunghe nella parte centrale e anteriore del piede?" en="What are the long bones in the middle and front of the foot called?" />
+      <explanation it="I metatarsi si trovano tra tarso e falangi delle dita." en="Metatarsals lie between the tarsal bones and toe phalanges." />
+      <option id="0" correct="true" it="Metatarsi" en="Metatarsals" />
+      <option id="1" correct="false" it="Metacarpi" en="Metacarpals" />
+      <option id="2" correct="false" it="Costole" en="Ribs" />
+      <option id="3" correct="false" it="Vertebre" en="Vertebrae" />
+    </question>
+    <question id="foot-09" level="2" source="anatomy">
+      <prompt it="Che cosa aiutano a fare gli archi del piede?" en="What do the arches of the foot help do?" />
+      <explanation it="Gli archi contribuiscono alla distribuzione dei carichi e all'elasticità del piede." en="The arches contribute to load distribution and foot elasticity." />
+      <option id="0" correct="true" it="Distribuire i carichi" en="Distribute loads" />
+      <option id="1" correct="false" it="Produrre lacrime" en="Produce tears" />
+      <option id="2" correct="false" it="Percepire suoni" en="Detect sounds" />
+      <option id="3" correct="false" it="Masticare" en="Chew" />
+    </question>
+    <question id="foot-10" level="2" source="anatomy">
+      <prompt it="Quale osso del piede si articola con tibia e perone alla caviglia?" en="Which foot bone articulates with the tibia and fibula at the ankle?" />
+      <explanation it="L'astragalo si trova tra le ossa della gamba e il resto del piede." en="The talus lies between the lower-leg bones and the rest of the foot." />
+      <option id="0" correct="true" it="Astragalo" en="Talus" />
+      <option id="1" correct="false" it="Calcagno" en="Calcaneus" />
+      <option id="2" correct="false" it="Rotula" en="Patella" />
+      <option id="3" correct="false" it="Mandibola" en="Mandible" />
+    </question>
+  </category>
+  <category id="toe" it="Dita del piede" en="Toes" descriptionIt="Le dita del piede aiutano l’appoggio e la spinta nel cammino. L’alluce è il dito più grande." descriptionEn="Toes help with support and push-off during walking. The big toe is the largest toe.">
+    <question id="toe-01" level="1" source="anatomy">
+      <prompt it="Come si chiama il dito più grande del piede?" en="What is the largest toe called?" />
+      <explanation it="L'alluce si trova sul lato interno del piede." en="The big toe is on the inner side of the foot." />
+      <option id="0" correct="true" it="Alluce" en="Big toe" />
+      <option id="1" correct="false" it="Pollice" en="Thumb" />
+      <option id="2" correct="false" it="Indice" en="Index finger" />
+      <option id="3" correct="false" it="Medio" en="Middle finger" />
+    </question>
+    <question id="toe-02" level="1" source="anatomy">
+      <prompt it="Quante dita ha di solito un piede?" en="How many toes does a foot usually have?" />
+      <explanation it="Un piede ha di solito cinque dita." en="A foot usually has five toes." />
+      <option id="0" correct="true" it="Cinque" en="Five" />
+      <option id="1" correct="false" it="Due" en="Two" />
+      <option id="2" correct="false" it="Tre" en="Three" />
+      <option id="3" correct="false" it="Otto" en="Eight" />
+    </question>
+    <question id="toe-03" level="1" source="anatomy">
+      <prompt it="Quale struttura protegge la parte superiore della punta del dito del piede?" en="Which structure protects the upper tip of a toe?" />
+      <explanation it="Le unghie proteggono la parte superiore delle punte delle dita del piede." en="Nails protect the upper tips of the toes." />
+      <option id="0" correct="true" it="Unghia" en="Nail" />
+      <option id="1" correct="false" it="Palpebra" en="Eyelid" />
+      <option id="2" correct="false" it="Capello" en="Hair" />
+      <option id="3" correct="false" it="Lobo" en="Earlobe" />
+    </question>
+    <question id="toe-04" level="1" source="anatomy">
+      <prompt it="In quale attività le dita del piede aiutano la spinta?" en="In which activity do toes help with push-off?" />
+      <explanation it="Le dita, soprattutto l'alluce, contribuiscono alla spinta nel passo." en="The toes, especially the big toe, contribute to push-off during a step." />
+      <option id="0" correct="true" it="Camminare" en="Walking" />
+      <option id="1" correct="false" it="Ascoltare" en="Listening" />
+      <option id="2" correct="false" it="Masticare" en="Chewing" />
+      <option id="3" correct="false" it="Annusare" en="Smelling" />
+    </question>
+    <question id="toe-05" level="1" source="anatomy">
+      <prompt it="Dove si trovano le dita del piede?" en="Where are the toes?" />
+      <explanation it="Le dita formano l'estremità anteriore del piede." en="Toes form the front end of the foot." />
+      <option id="0" correct="true" it="Nella parte anteriore del piede" en="At the front of the foot" />
+      <option id="1" correct="false" it="Sul tallone" en="On the heel" />
+      <option id="2" correct="false" it="Sul gomito" en="On the elbow" />
+      <option id="3" correct="false" it="Sul polso" en="On the wrist" />
+    </question>
+    <question id="toe-06" level="2" source="anatomy">
+      <prompt it="Come si chiamano le ossa delle dita del piede?" en="What are toe bones called?" />
+      <explanation it="Le ossa delle dita del piede si chiamano falangi." en="Toe bones are called phalanges." />
+      <option id="0" correct="true" it="Falangi" en="Phalanges" />
+      <option id="1" correct="false" it="Costole" en="Ribs" />
+      <option id="2" correct="false" it="Clavicole" en="Clavicles" />
+      <option id="3" correct="false" it="Vertebre" en="Vertebrae" />
+    </question>
+    <question id="toe-07" level="2" source="anatomy">
+      <prompt it="Quante falangi ha di solito l'alluce?" en="How many phalanges does the big toe usually have?" />
+      <explanation it="L'alluce ha due falangi." en="The big toe has two phalanges." />
+      <option id="0" correct="true" it="Due" en="Two" />
+      <option id="1" correct="false" it="Tre" en="Three" />
+      <option id="2" correct="false" it="Quattro" en="Four" />
+      <option id="3" correct="false" it="Cinque" en="Five" />
+    </question>
+    <question id="toe-08" level="2" source="anatomy">
+      <prompt it="Quante falangi ha di solito il secondo dito del piede?" en="How many phalanges does the second toe usually have?" />
+      <explanation it="Le dita dal secondo al quinto hanno di solito tre falangi." en="The second through fifth toes usually have three phalanges." />
+      <option id="0" correct="true" it="Tre" en="Three" />
+      <option id="1" correct="false" it="Una" en="One" />
+      <option id="2" correct="false" it="Due" en="Two" />
+      <option id="3" correct="false" it="Sei" en="Six" />
+    </question>
+    <question id="toe-09" level="2" source="anatomy">
+      <prompt it="A quali ossa si articolano le falangi prossimali delle dita del piede?" en="Which bones articulate with the proximal toe phalanges?" />
+      <explanation it="Le articolazioni metatarso-falangee uniscono metatarsi e dita." en="The metatarsophalangeal joints connect the metatarsals and toes." />
+      <option id="0" correct="true" it="Metatarsi" en="Metatarsals" />
+      <option id="1" correct="false" it="Metacarpi" en="Metacarpals" />
+      <option id="2" correct="false" it="Costole" en="Ribs" />
+      <option id="3" correct="false" it="Omero" en="Humerus" />
+    </question>
+    <question id="toe-10" level="2" source="anatomy">
+      <prompt it="Quali strutture tirano le dita del piede quando i muscoli si contraggono?" en="Which structures pull the toes when muscles contract?" />
+      <explanation it="I tendini trasmettono alle ossa delle dita la forza dei muscoli." en="Tendons transmit muscle force to the toe bones." />
+      <option id="0" correct="true" it="Tendini" en="Tendons" />
+      <option id="1" correct="false" it="Ciglia" en="Eyelashes" />
+      <option id="2" correct="false" it="Capelli" en="Hair" />
+      <option id="3" correct="false" it="Smalto" en="Enamel" />
+    </question>
+  </category>
+</catalog>

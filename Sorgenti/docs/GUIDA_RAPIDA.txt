@@ -1,0 +1,72 @@
+ANATOMIVA 2.0 — ANGELA PLESCIA
+Explore the body. Understand movement.
+
+COME INIZIARE
+1. Scarica lo ZIP ed estrai tutto il contenuto in una cartella sul PC.
+2. Apri Installa_Anatomiva.exe e segui la procedura.
+3. Avvia Anatomiva dall'icona sul desktop.
+
+Puoi anche aprire Anatomiva.exe nella cartella Portatile senza installazione.
+La versione installata e quella portatile usano lo stesso profilo Windows.
+Non servono Python, script, terminale, account o server. Non serve Internet.
+L'app usa il componente .NET Framework 4 incluso in Windows 10.
+Destinazione del pacchetto: Windows 10 a 64 bit o successivo.
+
+LE PAGINE
+- Esplora il corpo: seleziona una delle 12 categorie dalla lista o dalla figura.
+- Mettiti alla prova: scegli una categoria e un livello. Le domande sono cinque
+  per livello; una risposta corretta vale un punto. Leggi il feedback e continua.
+- Laboratorio: scegli Gomito, Ginocchio, Caviglia o Leve. Muovi i cursori e
+  osserva il modello. L'obiettivo e' accanto ai controlli. Scorri verso il basso,
+  scegli la risposta della missione e premi Verifica. Devi soddisfare sia
+  l'obiettivo del modello sia la domanda. Se sbagli, leggi il feedback, modifica
+  il modello o la risposta e riprova. Le prove vengono salvate nei progressi.
+- Ripasso mirato: riprova i concetti per cui l'ultima risposta e' stata errata.
+  Ogni sessione propone fino a cinque domande; una risposta corretta rimuove
+  il concetto dal prossimo ripasso. I risultati precedenti restano invariati.
+- Progressi: migliori risultati, cronologia, missioni e prove del laboratorio.
+  Esporta tutto in CSV per aprirlo anche in Excel.
+- Impostazioni: scegli italiano/inglese, testo piu' grande o reset dei progressi.
+
+CONTROLLI
+Mouse oppure Tab/Shift+Tab; Invio o Spazio attivano i pulsanti.
+Sui cursori usa anche le frecce della tastiera. Anima/Pausa muove il modello;
+la verifica della missione ferma l'animazione. Esc torna alla Home e richiede
+conferma se stai abbandonando un quiz non completato.
+Le pagine scorrono: usa la rotellina o la barra verticale per raggiungere
+missioni, feedback e risultati. L'app non misura movimenti tramite webcam.
+
+CHE COSA RAPPRESENTANO I MODELLI
+Sono schemi 2D didattici. Gli angoli non sono misure del tuo corpo e i limiti
+dei cursori non sono valori clinici o obiettivi fisici da eseguire.
+Nel modulo Leve il braccio resta orizzontale. Il calcolo considera soltanto
+il carico esterno: momento = massa x 9,81 x distanza perpendicolare.
+Non considera peso dell'arto, accelerazioni o forza dei muscoli.
+
+PASSAGGIO DALLA PRIMA APP
+Al primo avvio, se presente e leggibile, il vecchio archivio Body Explorer
+viene copiato nel nuovo profilo Anatomiva. Il file precedente non viene
+modificato. Se hai gia' un profilo Anatomiva, non viene sovrascritto.
+Dopo l'importazione le due app sono indipendenti: usa Anatomiva per continuare.
+Se il vecchio file non e' leggibile, l'app chiede se proseguire con un profilo
+nuovo e conserva comunque l'originale.
+
+DOVE SONO I DATI
+%LOCALAPPDATA%\AngelaPlescia\Anatomiva
+progress.xml contiene risultati e preferenze; progress.xml.bak conserva la
+versione precedente. L'app salva in modo atomico. Un file danneggiato non viene
+cancellato automaticamente: puo' essere proposto un ripristino da backup.
+La disinstallazione conserva i progressi. Per rimuovere ogni dato, dopo la
+disinstallazione elimina anche questa cartella. Il reset nell'app cancella
+quiz, ripassi e prove del laboratorio ma conserva lingua e dimensione testo.
+
+STATO DELLA CONSEGNA
+Eseguibile e installer Windows compilati. Logica e schermate verificate con
+Mono/Xvfb su Linux; dettaglio delle prove nei Sorgenti/docs.
+Installazione, avvio nativo e resa grafica sul tuo Windows 10 restano da
+verificare sul PC di destinazione. Il pacchetto non e' firmato digitalmente:
+Windows puo' indicare un autore non verificato. Non disattivare le protezioni.
+Se riscontri un errore, conserva il messaggio esatto per verificarne la causa.
+
+Progetto personale di Angela Plescia, ideatrice e autrice del prototipo
+Python/Pygame. Anatomiva è un’applicazione educativa che funziona offline.
